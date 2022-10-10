@@ -3,7 +3,7 @@ package com.system;
 
 
 public class Status{
-    int n=100;
+    static int n=100;
     
     public int status(){
         if(n>0){
