@@ -1,7 +1,7 @@
 package com.system;
 import java.util.Date;
 
-public class Booking{
+public class Booking extends Status{
 
 public void Book(){
     Date d = new Date();
